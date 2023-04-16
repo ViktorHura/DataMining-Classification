@@ -1,0 +1,7 @@
+pandas==1.5.3
+openpyxl==3.1.2
+matplotlib==3.7.1
+seaborn
+scikit-learn==1.2.2 # 1.1.2 needed for missingpy to work
+missingpy==0.2.0
+xgboost==1.7.5

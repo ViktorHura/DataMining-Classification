@@ -1,0 +1,27 @@
+=== Evaluating Model === 
+
+F1: 0.7112122465866778
+AUC ROC score: 0.8450889245845563
+precision: 0.5981210855949896
+recall: 0.8770408163265306
+accuracy: 0.8285222945584081
+ratio >50k to total: 0.3530278835523891
+real ratio >50k to total: 0.2407566638005159
+
+extracted value coefficient: 0.706281887755102
+EVPC score: -42.386743215031316
+
+[[1719  241]
+ [1155 5026]]
+
+========
+
+=== Predicting Potential Customers ===
+
+>50k predictions: 5599
+Ratio >50k to total: 0.3438977949757386
+
+Expected Gain: 237323.37526096034
+
+======
+
