@@ -24,7 +24,7 @@ The preprocessed data is already available in `/data`, but should you choose to 
 
 `Step0_EDA.py`, `Step1_preprocessing.py` and `Step3_predict.py` do not require commandline arguments and can simply be run using the the `python` command.
 
-The training and evaluation scripts has several commandline options which can be found using the following command
+The training and evaluation script has several commandline options which can be found using the following command
 ```
 python Step2_train_evaluate.py --help
 ```
